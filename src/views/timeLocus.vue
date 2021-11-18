@@ -12,7 +12,7 @@
               :boxShadow="false"
               >
             </mavon-editor>
-          <p v-if="item.create_time">黄先森  {{item.create_time}}</p>
+          <p v-if="item.create_time">周吉星  {{item.create_time}}</p>
         </el-card>
       </el-timeline-item>
     </el-timeline>

@@ -19,7 +19,7 @@
                 <el-tag v-if="item.class_name03" size="small" type="danger">{{item.class_name03}}</el-tag>
               </div>
               <div class="describe-bottom">
-                <span class="author">黄先森</span>
+                <span class="author">周吉星</span>
                 <span v-if="item.create_time" class="timer">{{item.create_time.slice(0,10)}}</span>
                 <span class="browse"><i class="el-icon-view"></i>577</span>
                 <span class="like"><i class="iconfont  My-new-icondianzan"></i>399</span>

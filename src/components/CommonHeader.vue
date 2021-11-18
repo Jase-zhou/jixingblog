@@ -5,7 +5,7 @@
       <div class="wrapper">
         <el-row>
           <el-col :span="4">
-            <div class="logo threed">黄先森个人博客站</div>
+            <div class="logo threed">周吉星个人博客站</div>
           </el-col>
           
           <el-col :span="14">
@@ -68,7 +68,7 @@
           <el-submenu index="1">
             <template slot="title">
               <i class="el-icon-location"></i>
-              <span class="logotit">黄先森个人博客站</span>
+              <span class="logotit">吉星个人博客站</span>
               <span v-if="UserInfo.nickname">{{UserInfo.nickname}},欢迎您</span>
             </template>
             <el-menu-item-group>

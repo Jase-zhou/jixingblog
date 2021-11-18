@@ -2,11 +2,11 @@
   <div class="personalDetails" id="introduction">
      <!-- 个人简介 -->
              <div class="block">
-              <h2>黄先森·简介</h2>
+              <h2>周吉星·简介</h2>
               <div>
-                <p><i class="iconfont My-new-iconzhiye"></i>职业：大三学生、前端学习者</p>
-                <p><i class="iconfont My-new-icondingwei1"></i>现居：广东省广州市</p>
-                <p><i class="iconfont My-new-iconyouxiang"></i>Email:923691372@qq.com</p>
+                <p><i class="iconfont My-new-iconzhiye"></i>职业：前端开发</p>
+                <p><i class="iconfont My-new-icondingwei1"></i>现居：广东省深圳市</p>
+                <p><i class="iconfont My-new-iconyouxiang"></i>Email:1844529217@qq.com</p>
               </div>
               <div>
                 <ul class="buttonBox">
@@ -25,7 +25,7 @@
                     <img class="pic" src="~@/assets/img/myqq.jpg" alt="">
                   </li>
                 </ul>
-                <p class="threed">黄先森个人博客站</p>
+                <p class="threed">周吉星个人博客站</p>
               </div>
             </div> 
   </div>
